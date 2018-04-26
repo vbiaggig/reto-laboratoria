@@ -1,0 +1,237 @@
+.white
+{
+	color:#fff !important;
+}
+h1.cta-title
+{
+	font-size: 43px;
+}
+h1
+{
+	font-size: 32px;
+}
+
+#name-design{
+  text-align: center;
+	margin-top: 2%;
+	font-size: 24px;
+	font-family: 'Josefin Slab', serif;
+}
+
+table{
+	text-align: center;
+	margin-top: 4%;
+}
+
+.section-padding
+{
+	padding: 40px 0px;
+}
+.main-navigation
+{
+    border-bottom: 1px solid #eee;
+}
+.navbar-default {
+    background-color: #fff;
+    border-color: rgba(231, 231, 231, 0.33);
+    padding: 20px 0px;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    color: #354242;
+    background-color: #fff;
+}
+.navbar-nav {
+    padding-top: 5px;
+}
+
+.navbar-default .navbar-nav > .active > a,.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus
+{
+	border-bottom: 2px solid #E74C3C;
+    outline: none;
+}
+.navbar {
+	min-height: inherit;
+	margin-bottom: 0px;
+}
+.navbar-brand {
+	height: inherit;
+	font-family: 'Josefin Slab', serif;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding: 5px;
+    font-size: 42px;
+    margin-top: 5px;
+}
+
+.navbar-default .navbar-brand {
+    color: #e43c5c;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: #354242;
+	font-weight: 600;
+	text-transform: uppercase;
+	margin: 0px 10px;
+	padding-bottom: 5px;
+	font-size: 14px;
+}
+.nav > li > a
+{
+	padding: 0px;
+}
+.jumbotron
+{
+    background-color: transparent;
+    padding-top: 90px;
+}
+.jumbotron p.big
+{
+    line-height: 21px;
+    border-width: 0px;
+    margin: 0px;
+    padding: 0px;
+    letter-spacing: 6px;
+    font-size: 15px;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 400;
+    color: #000000;
+    -webkit-filter: drop-shadow(0 1px 1px rgba(0, 0, 0, 0.4));
+    -moz-filter: drop-shadow(0 1px 1px rgba(0, 0, 0, 0.4));
+    -ms-filter: drop-shadow(0 1px 1px rgba(0, 0, 0, 0.4));
+    filter: drop-shadow(0 1px 1px rgba(0, 0, 0, 0.4));
+    padding-top: 10px;
+}
+a.btn-banner {
+    border: 1px solid #cdcdcd;
+    padding: 12px 22px;
+    line-height: 0px;
+    border-radius: 3px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    text-transform: uppercase;
+    color: #000000;
+    letter-spacing: 1px;
+    display: inline-block;
+    margin-top: 95px;
+}
+a.btn-banner i
+{
+    padding-left: 10px;
+}
+a.btn-banner:hover, a.btn-banner:focus
+{
+    background-color: #e43c5c;
+    color: #000000;
+    border-color: #E74C3C;
+    display: inline-block;
+}
+.bold
+{
+    font-weight: bold;
+}
+.bor-btm
+{
+    width: 100px;
+    height: 1px;
+    background-color: #ddd;
+    margin-bottom: 85px;
+}
+.jumbotron h1.small
+{
+    line-height: 88px;
+    border-width: 0px;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 62px;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    font-weight: 400;
+    color: #000000;
+    -webkit-filter: drop-shadow(0 1px 1px rgba(0, 0, 0, 0.4));
+    -moz-filter: drop-shadow(0 1px 1px rgba(0, 0, 0, 0.4));
+    -ms-filter: drop-shadow(0 1px 1px rgba(0, 0, 0, 0.4));
+    filter: drop-shadow(0 1px 1px rgba(0, 0, 0, 0.4));
+}
+.container .jumbotron, .container-fluid .jumbotron {
+    padding-right: 60px;
+    padding-left: 0px;
+}
+
+.wrk-title
+{
+    cursor: pointer;
+}
+.cta-1, .cta2
+{
+	background-color: #e43c5c;
+	padding: 40px 0px;
+}
+p.cta-sub-title
+{
+	font-size: 28px;
+}
+
+.footer {
+    background-color: #000000;
+}
+.footer h3 {
+    color: #fff;
+    padding-bottom: 30px;
+}
+.footer_social ul {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+}
+.footer_social ul li {
+    margin: 2px;
+    display: inline-block;
+}
+.footer_social ul li a {
+    background: #2e3537 none repeat scroll 0 0;
+    border: 1px solid #2e3537;
+    box-shadow: 0 0 0 7px transparent;
+    color: #aaa;
+    display: block;
+    font-size: 14px;
+    height: 40px;
+    line-height: 21px;
+    padding: 9px 13px;
+    -webkit-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+    width: 40px;
+}
+.footer-bottom {
+    background: #000000;
+    padding: 20px 0;
+}
+.footer_copyright {
+    color: #fff;
+    font-size: 16px;
+    margin-bottom: 0;
+}
+.footer_copyright a {
+    color: #e43c5c;
+}
+#banner
+{
+    background: url('../img/fondo.jpg') no-repeat;
+    background-size: cover;
+    min-height: 500px;
+		margin-top: 80px;
+}
+.cta2 .btn-default,.cta2 .btn-default:hover,.cta2 .btn-default:focus
+{
+    padding: 10px 25px;
+    background-color: #fff;
+    border: 0px;
+}
+
+.footer_copyright a
+{
+    text-decoration: none;
+}
