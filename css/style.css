@@ -113,6 +113,7 @@ table{
     padding-top: 10px;
 }
 a.btn-banner {
+		background-color: #cdcdcd;
     border: 1px solid #cdcdcd;
     padding: 15px 25px;
     line-height: 0px;
